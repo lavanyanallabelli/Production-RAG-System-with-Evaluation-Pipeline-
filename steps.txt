@@ -1,0 +1,13 @@
+Step 1  → Python environment setup
+Step 2  → Extract text from a PDF
+Step 3  → Chunking (fixed size first, then overlap, then paragraph)
+Step 4  → Embeddings (what they are + create them)
+Step 5  → FAISS vector store (store + search)
+Step 6  → BM25 keyword search
+Step 7  → Hybrid search (merge both) 
+Step 8  → Re-ranking
+Step 9  → Prompt templates (versioned)
+Step 10 → Generation + output validation + retry
+Step 11 → Evaluation pipeline
+Step 12 → A/B testing prompt versions
+Step 13 → FastAPI server (wire everything together into a real API)
