@@ -5,6 +5,12 @@ A production-grade Retrieval-Augmented Generation (RAG) system for document-base
 ## Demo
 
 Upload any PDF → Ask questions → Get accurate answers with source citations.
+<img width="1908" height="1028" alt="image" src="https://github.com/user-attachments/assets/8bae36ef-0c5a-470f-8ec4-4c0743b13a6a" />
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/29a0c232-6294-4190-b2bf-48de6a29dba2" />
+<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/e43ca335-0f16-4b65-a2a9-87888d70fbc4" />
+
+
+
 
 ## Architecture
 PDF → Extract → Chunk → Embed → FAISS + BM25 Index
